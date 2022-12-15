@@ -1,4 +1,4 @@
-package ru.hogwarts.School;
+package ru.hogwarts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
